@@ -1,7 +1,4 @@
-const box = document.querySelector('.box');
 const boxArray = document.querySelectorAll('.box');
-console.log(boxArray);
-
 
 //Changing style properties
 // boxArray[1].style.backgroundColor = 'red';
